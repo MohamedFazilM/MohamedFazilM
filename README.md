@@ -177,22 +177,6 @@ Backend API
 
 ---
 
-## 🎓 Student Management System
-
-PHP | MySQL | JavaScript
-
-• Complete CRUD Operations
-
-• Live Search
-
-• Department Filter
-
-• Toast Notifications
-
-• Delete Confirmation Modal
-
----
-
 ## 🚗 Vehicle Rental System
 
 Core Java
