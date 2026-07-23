@@ -1,101 +1,288 @@
 <h1 align="center">Hi 👋 I'm Mohamed Fazil</h1>
 
+<h3 align="center">
+Software Developer | PHP Developer | Java Developer | Full Stack Development Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;PHP+Developer;RPA+Automation+Learner;Open+to+IT+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Software+Developer;PHP+Developer;Java+Developer;REST+API+Developer;Full+Stack+Development+Enthusiast;Open+to+IT+Opportunities" />
+</p>
+
+<p align="center">
+<a href="mailto:mohamedfazil.m10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/mohamed-fazil-m10">
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Fazil-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/MohamedFazilM">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://mohamedfazil.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge">
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 BSc Computer Science Graduate (2025)  
-💻 Passionate Java Developer  
-📊 Skilled in Tableau, Excel & MySQL  
-🤖 RPA Automation using UiPath  
-📍 Tamil Nadu, India  
-🚀 Currently looking for IT opportunities  
-## 📚 Currently Learning
+🎓 B.Sc Computer Science Graduate (2025)
 
-✔ Advanced Java  
-✔ SQL Queries  
-✔ Web Development Basics <br>
-✔ PHP language
+💼 Software Developer Intern at Smart Global Solutions
 
-## 🛠️ Tech Stack
+💻 Passionate about building scalable web applications using PHP, Java and React
 
-### 👨‍💻 Programming
+🚀 Experience developing live ERP & HRM applications
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=ava&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)
+📱 Built REST APIs for mobile applications
 
-### 🌐 Web Technologies
+🌐 Developed responsive web applications using PHP, HTML, CSS and JavaScript
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)
+📍 Tamil Nadu, India
 
-### 🗄️ Database
+🎯 Currently looking for Software Developer / PHP Developer / Java Developer opportunities
+
+---
+
+# 💼 Internship Experience
+
+## Software Developer Intern
+**Smart Global Solutions | Coimbatore**
+
+### Responsibilities
+
+✔ Working on Live HRM & ERP Applications
+
+✔ Developing new modules using PHP & MySQL
+
+✔ Building REST APIs for Android Applications
+
+✔ Debugging production applications
+
+✔ Developing responsive frontend pages
+
+✔ Working with QA team for issue fixing
+
+✔ PDF generation using TCPDF
+
+✔ CSV Export & Payroll modules
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## Backend
+
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+
+![PHP](https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge)
+
+---
+
+## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
-### 📊 Data Analytics
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
-### 🤖 Automation
-
-![UiPath](https://img.shields.io/badge/RPA-FF6C37?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
 
 ---
 
-## 📂 Featured Project
+## Tools
 
-### 🚗 Vehicle Rental System
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-✔ Console-based Core Java application  
-✔ Admin & Customer modules  
-✔ Booking & return workflow  
-✔ Payment calculation logic  
-✔ OOP concepts implementation  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### 📖 Student Management System
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-✔ Developed a Student Management System using PHP, MySQL, and JavaScript with CRUD operations<br>
-✔ Integrated a confirmation modal for delete operations<br>
-✔ toast notification system for real-time user feedback.<br>
-✔ Implemented client-side live search and department filter to query student records dynamically without page reload.<br>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![UiPath](https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
 ---
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-🏆 Robotic Process Automation – UiPath  
-🏆 Core Java Certification  
+## 🎨 DropPrint
+
+**React | Tailwind CSS | Konva | Supabase**
+
+• Custom T-shirt Design Platform
+
+• Canvas-based Live Design Editor
+
+• Product Customization
+
+• Authentication using Supabase
+
+• Responsive UI
+
+---
+
+## 🎙 TrueTalk
+
+Live Podcast & Video Platform
+
+• Responsive UI
+
+• Category Sections
+
+• Audio Carousel
+
+• Modern Landing Page
+
+---
+
+## 📱 TrueStory REST API
+
+Backend API
+
+• User Registration
+
+• Login with OTP
+
+• Story Upload
+
+• Ratings
+
+• Profile Management
+
+• REST API Development
+
+---
+
+## 🎓 Student Management System
+
+PHP | MySQL | JavaScript
+
+• Complete CRUD Operations
+
+• Live Search
+
+• Department Filter
+
+• Toast Notifications
+
+• Delete Confirmation Modal
+
+---
+
+## 🚗 Vehicle Rental System
+
+Core Java
+
+• OOP Concepts
+
+• Admin Module
+
+• Customer Module
+
+• Booking Workflow
+
+• Payment Calculation
+
+• Vehicle Return Module
+
+---
+
+# 📜 Certifications
+
+🏆 Core Java Certification
+
+🏆 Robotic Process Automation (UiPath)
+
 🏆 Deloitte Data Analytics Job Simulation (Forage)
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
+
+✔ Advanced Java
+
+✔ React.js
+
+✔ REST API Best Practices
+
+✔ Software Design Principles
+
+✔ SQL Optimization
+
+✔ System Design Basics
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedFazilM&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFazilM&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFazilM&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Profile Views
 
-📧 mohamedfazil.m10@gmail.com  
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohamedFazil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-fazil-m10)
+<img src="https://komarev.com/ghpvc/?username=MohamedFazilM&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
 ---
 
-⭐ From Mohamed Fazil
+# 🌐 Connect With Me
+
+📧 **Email:** mohamedfazil.m10@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/mohamed-fazil-m10
+
+💻 **GitHub:** https://github.com/MohamedFazilM
+
+🌍 **Portfolio:** https://mohamedfazil.netlify.app
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
